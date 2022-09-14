@@ -3,4 +3,7 @@ title: do i need a title here?
 ----
 # ok i have to log off now (Header 1)
 Here is some more test
-- [contact us] (/about/contact-us.md)
+
+[contact us](/about/contact-us.md)
+
+what if I don't want it bullet, yay!
